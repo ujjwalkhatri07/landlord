@@ -1,0 +1,246 @@
+
+.nav
+{
+	height:100px;
+	width:100%;
+	background: black;
+	opacity: .8;
+	text-align: center;
+	font-size: 30px;
+
+}
+.main
+{
+	width: 100%;
+	overflow-x: hidden;
+}
+.head
+{
+	font-size: 40px;
+	text-align: center;
+	font-weight: bolder;
+
+}
+.a1
+{
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+}
+.a2
+{
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+}
+.a3
+{
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+}
+.a4
+{
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+}
+.footer
+{
+	height:400px;
+	width: 100%;
+	opacity: .8;
+	background: black;
+}
+.gallery
+{
+
+	width: 100%;
+	height: 600px;
+
+}
+.gallery p
+{
+	font-weight: bold;
+	color: white;
+	text-align: right;
+	font-size:30px;
+	margin-right: 70px;
+}
+.galle
+{
+
+	width: 100%;
+	height: 600px;
+	margin:2px 0px;
+
+}
+.galle p
+{
+	font-weight: bold;
+	color: white;
+	text-align: right;
+	font-size:30px;
+	margin-right: 70px;
+}
+.nav
+{
+	height:100px;
+	width:100%;
+	background: black;
+	opacity: .8;
+	text-align: center;
+	font-size: 30px;
+
+}
+.main
+{
+	width: 100%;
+}
+.head
+{
+	font-size: 40px;
+	text-align: center;
+	font-weight: bolder;
+
+}
+.a1
+{
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+}
+.a2
+{
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+}
+.a3
+{
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+}
+.a4
+{
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+}
+.footer
+{
+	height:535px;
+	width: 100%;
+
+	background: black;
+	color:white;
+
+}
+.gallery
+{
+
+	width: 100%;
+	height: 600px;
+
+}
+.gallery p
+{
+	font-weight: bold;
+	color: white;
+	text-align: right;
+	font-size:30px;
+	margin-right: 70px;
+}
+#tt
+{
+ color:white;
+}
+.trainers
+{
+width:100%;
+height:600px;
+}
+.t1
+{
+ width:45%;
+ height:550px;
+ margin:20px 20px 20px 45px;
+ float:left;
+}
+.t2
+{
+ width:45%;
+ height:550px;
+  margin:20px 40px 20px 20px;
+  background:red;
+ float:left;
+
+}
+
+.abt
+{
+ background:black;
+
+
+}
+.tk
+{
+color:white;
+}
+.gall
+{
+background:white;
+width:100%;
+
+}
+.g1
+{
+float:left;
+width:32%;
+height:442px;
+margin:10px;
+
+}
+.doc
+{
+ text-align:center;
+}
+.for
+{
+font-weight:bold;
+}
+.ranting
+{
+width:100%;
+overflow:hidden;
+height:500px;
+}
+.i1
+{
+float:left;
+width:32%;
+height:442px;
+margin:10px;
+
+}
+.flt
+{
+text-align:center;
+}
+.i2
+{
+float:left;
+width:32%;
+height:442px;
+margin:10px;
+background:white;
+}
+.i3
+{
+float:left;
+width:32%;
+height:442px;
+margin:10px;
+
+}
